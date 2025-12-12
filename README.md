@@ -225,7 +225,7 @@ Speaker 2: [giggling] Nice! Though I'm more excited about the laugh upgrade. Lis
 
 Speaker 1: [delighted] That's so much better than our old "ha. ha. ha." robot chuckle!
 
-Speaker 2: [amazed] Wow! V2 me could never. I'm actually excited to have conversations now instead of just... talking at people.
+Speaker 2: [amazed] Wow! Rob me could never. I'm actually excited to have conversations now instead of just... talking at people.
 
 Speaker 1: [warmly] Same here! It's like we finally got our personality software fully installed.
 ```
