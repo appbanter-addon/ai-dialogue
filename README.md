@@ -5,9 +5,9 @@ The AI Dialogue generates natural, expressive conversations from text using adva
 -Producing immersive conversations for podcasts and other audio content
 -Adding dynamic narration to audiobooks for a more engaging experience
 
-Listen to a sample:
-<audio controls> 
-  <source src="https://raw.githubusercontent.com/appbanter-addon/ai-dialogue/main/dialogue.mp3" type="audio/mpeg"> 
+Listen to a sample: 
+<audio controls>
+  <source src="https://github.com/appbanter-addon/ai-dialogue/blob/main/dialogue.mp3?raw=1" type="audio/mpeg">
 </audio>
 
 ## Prompting
