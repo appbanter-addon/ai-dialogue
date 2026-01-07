@@ -50,7 +50,7 @@ You can also use punctuation to indicate the flow of dialog, like interruptions:
 "[jumping in] Free? [cheerfully] Yes it is."
 ```
 <audio controls> 
-  <source src="https://raw.githubusercontent.com/appbanter-addon/ai-dialogue/main/dialogue-interruption.mp3" type="audio/mpeg"> 
+  <source src="https://raw.githubusercontent.com/appbanter-addon/ai-dialogue/main/dialogue-interruption.mp3?raw=1" type="audio/mpeg"> 
 </audio> 
 
 Ellipses can be used to indicate trailing sentences:
