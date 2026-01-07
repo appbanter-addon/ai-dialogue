@@ -6,8 +6,9 @@ The AI Dialogue generates natural, expressive conversations from text using adva
 -Adding dynamic narration to audiobooks for a more engaging experience
 
 Listen to a sample: 
+
 <audio controls>
-  <source src="https://appbanter.s3.us-east-1.amazonaws.com/git/dialogue.mp3">
+  <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
 </audio>
 
 ## Prompting
