@@ -7,7 +7,7 @@ The AI Dialogue generates natural, expressive conversations from text using adva
 
 Listen to a sample: 
 <audio controls>
-  <source src="https://github.com/appbanter-addon/ai-dialogue/blob/main/dialogue.mp3?raw=1" type="audio/mpeg">
+  <source src="https://appbanter.s3.us-east-1.amazonaws.com/git/dialogue.mp3?raw=1" type="audio/mpeg">
 </audio>
 
 ## Prompting
@@ -40,7 +40,7 @@ Some examples include:
 "Well, [sigh] I'm not sure what to say."
 ```
 <audio controls> 
-  <source src="https://raw.githubusercontent.com/appbanter-addon/ai-dialogue/main/dialogue-emotive.mp3" type="audio/mpeg"> 
+  <source src="https://appbanter.s3.us-east-1.amazonaws.com/git/dialogue-emotive.mp3" type="audio/mpeg"> 
 </audio>
 
 You can also use punctuation to indicate the flow of dialog, like interruptions:
@@ -50,7 +50,7 @@ You can also use punctuation to indicate the flow of dialog, like interruptions:
 "[jumping in] Free? [cheerfully] Yes it is."
 ```
 <audio controls> 
-  <source src="https://raw.githubusercontent.com/appbanter-addon/ai-dialogue/main/dialogue-interruption.mp3?raw=1" type="audio/mpeg"> 
+  <source src="https://appbanter.s3.us-east-1.amazonaws.com/git/dialogue-interruption.mp3?raw=1" type="audio/mpeg"> 
 </audio> 
 
 Ellipses can be used to indicate trailing sentences:
@@ -61,7 +61,7 @@ Ellipses can be used to indicate trailing sentences:
 "[elated] Yes! [laughs] I'm so glad you knew!"
 ```
 <audio controls> 
-  <source src="https://raw.githubusercontent.com/appbanter-addon/ai-dialogue/main/dialogue-ellipses.mp3" type="audio/mpeg"> 
+  <source src="https://appbanter.s3.us-east-1.amazonaws.com/git/dialogue-ellipses.mp3" type="audio/mpeg"> 
 </audio>  
 
 ## Prompting Best practices
