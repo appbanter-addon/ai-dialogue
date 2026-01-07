@@ -8,7 +8,7 @@ The AI Dialogue generates natural, expressive conversations from text using adva
 Listen to a sample: 
 
 <audio controls>
-  <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
+  <source src="https://appbanter.s3.us-east-1.amazonaws.com/git/dialogue.mp3" />
 </audio>
 
 ## Prompting
